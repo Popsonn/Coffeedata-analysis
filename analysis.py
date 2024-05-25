@@ -8,7 +8,7 @@ from openpyxl import Workbook
 mydb = mysql.connector.connect(
   host="127.0.0.1",
   user="root",
-  password="popson8448",
+  password="password",
   database="coffeedata"
 )
 
